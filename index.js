@@ -1,6 +1,6 @@
 function Scooter(year, color, model) {
-  this.year = 0;
-  this.color = "color1";
-  this.model = "somemodel";
+  this.year = year;
+  this.color = color;
+  this.model = model;
 
 }
